@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Primo</string>
+    <string name="labelReceived">Received</string>
+    <string name="labelMessage">Type a message</string>
+    <string name="buttonLeftLabel">Left</string>
+    <string name="buttonRightLabel">Right</string>
+    <string name="labelAddress">Address</string>
+    <string name="buttonTestConnect">Test connection</string>
+    <string name="checkBoxGpsEnabled">Gps Enabled</string>
+    <string name="checkBoxNetEnable">Network Enabled</string>
+    <string name="buttonLocSettings">Location Settings</string>
+</resources>
